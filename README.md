@@ -1,6 +1,8 @@
 # Web based media browser
 
-Media browser app with an ability to play/watch tracks' videos inline.
+Media browser app with an ability to play/watch tracks' videos inline. 
+
+* [Demo](https://olga-brushuk.github.io/web-based-media-browser/)
 
 ## To run the application
 
@@ -17,7 +19,7 @@ Installs all dependencies.
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm build`
+### `npm run build`
 
 Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -71,6 +73,8 @@ Run:
 ## Possible improvements
 
 1. Fix the API fetching functionality.
+
+1. Work on Rerformance issues and possibly lazyload assets.
  
 1. Have a track thumbnail and custom play button to play tracks via souce platforms APIs rather than play embedded videos.
 

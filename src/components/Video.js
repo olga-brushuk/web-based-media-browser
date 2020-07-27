@@ -13,7 +13,7 @@ class Video extends Component {
       return (
         <div className="track__video">
           <iframe type="text/html" width="640" height="360" frameBorder="no" title={this.props.trackName} 
-          src={`https://www.youtube.com/embed/${trackId}`}></iframe>
+          src={`https://www.youtube.com/embed/${trackId}`} allowFullScreen></iframe>
         </div>
       );
     } 

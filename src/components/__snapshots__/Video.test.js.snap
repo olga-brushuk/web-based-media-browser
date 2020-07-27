@@ -5,6 +5,7 @@ exports[`<Video /> render correctly <Video /> component 1`] = `
   className="track__video"
 >
   <iframe
+    allowFullScreen={true}
     frameBorder="no"
     height="360"
     src="https://www.youtube.com/embed/U7KQ-8I_jYI"
