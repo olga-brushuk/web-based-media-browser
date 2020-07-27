@@ -4,6 +4,8 @@ Media browser app with an ability to play/watch tracks' videos inline.
 
 ## To run the application
 
+Please make sure that you have [Node.js and npm](https://nodejs.org/en/download/) installed on your machine. 
+
 To run and preview project locally please run:
 
 ### `npm install`
