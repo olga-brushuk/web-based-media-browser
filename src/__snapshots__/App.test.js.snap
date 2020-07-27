@@ -1,0 +1,908 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot renders 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/U7KQ-8I_jYI"
+          title="Brooks - If Only I Could"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Brooks - If Only I Could
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/50bcaf297e91c862b2a91d7c"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/50bcaf297e91c862b2a91d7c)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          Sabrina
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/eFsVhntGjP4"
+          title="Revelries - Blinding Lights"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Revelries - Blinding Lights
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/512284f57e91c862b2aaf310"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/512284f57e91c862b2aaf310)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          Thomas Besnard
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/sgwYToaSQ90"
+          title="The New Pope: Good Time Girl (Title Sequence) | HBO"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        The New Pope: Good Time Girl (Title Sequence) | HBO
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/541b15a7e04b7b4fca7ee6bc"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/541b15a7e04b7b4fca7ee6bc)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          Den's
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/YEEy615Jzg4"
+          title="The Pipkins - Gimme Dat Ding"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        The Pipkins - Gimme Dat Ding
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/53a8707366491c17b2adcbe3"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/53a8707366491c17b2adcbe3)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          Tom P.
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/q-FojIbt_xc"
+          title="(3) Controller (Walker & Royce Remix)"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        (3) Controller (Walker & Royce Remix)
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/50b63c907e91c862b2a8fb22"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/50b63c907e91c862b2a8fb22)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          Ludimix
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/l4HcjGUC54k"
+          title="(6) Madeline Kenney - \\"Picture of You\\" (Official Music Video)"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        (6) Madeline Kenney - "Picture of You" (Official Music Video)
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/50bf51577e91c862b2a928a8"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/50bf51577e91c862b2a928a8)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          flip.vinyl
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/mGpSMthyXkg"
+          title="Drab City - Troubled Girl (Official Video)"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Drab City - Troubled Girl (Official Video)
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5438c677e04b7b4fca7fb4f3"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5438c677e04b7b4fca7fb4f3)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          jacques mercier
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/QS27S3mspjU"
+          title="the mountain goats - no children"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        the mountain goats - no children
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5f1bb6021125f9d3af29f930"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5f1bb6021125f9d3af29f930)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          velvets
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/NUr5eU-qVgk"
+          title="\\"Kitchen Fork\\" Animated Lyric Video"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        "Kitchen Fork" Animated Lyric Video
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5f1bb6021125f9d3af29f930"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5f1bb6021125f9d3af29f930)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          velvets
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/OgSa8hMxwH0"
+          title="Miracle Musical - Murders [LYRICS]"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Miracle Musical - Murders [LYRICS]
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5f1bb6021125f9d3af29f930"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5f1bb6021125f9d3af29f930)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          velvets
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/d_QS59ivFrc"
+          title="Skinshape feat. D'Alma - Sua Alma (Official Audio w/ Translation)"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Skinshape feat. D'Alma - Sua Alma (Official Audio w/ Translation)
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5438c677e04b7b4fca7fb4f3"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5438c677e04b7b4fca7fb4f3)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          jacques mercier
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/q9BAoiAWRYA"
+          title="illuminati hotties - b yr own b (Official Audio)"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        illuminati hotties - b yr own b (Official Audio)
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5edbd60cdadc93b520a93bfb"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5edbd60cdadc93b520a93bfb)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          Phil72 Le Mans
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/8oc9OQw_nn0"
+          title="The Plaid Jackets - Adam West Is Batman"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        The Plaid Jackets - Adam West Is Batman
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/53f4ee46e04b7b4fca7dcea3"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/53f4ee46e04b7b4fca7dcea3)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          banga drums
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/7OKZ9Mc2wws"
+          title="CASTLEBEAT - Goon Pop | Flyotw Present"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        CASTLEBEAT - Goon Pop | Flyotw Present
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5f1bb6021125f9d3af29f930"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5f1bb6021125f9d3af29f930)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          velvets
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/ue7g_E92pwI"
+          title="Starfucker // STRFKR - Beach Monster"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Starfucker // STRFKR - Beach Monster
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5f1bb6021125f9d3af29f930"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5f1bb6021125f9d3af29f930)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          velvets
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/XaZHifM0qGo"
+          title="CRACK CLOUD - OUSTER STEW"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        CRACK CLOUD - OUSTER STEW
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/5224a3327e91c862b2aff89d"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/5224a3327e91c862b2aff89d)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          Lou McZarowsky
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="166"
+          scrolling="no"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/600362559"
+          title="Monsieur Van Prat - Te Olvidare DW004"
+          width="100%"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Monsieur Van Prat - Te Olvidare DW004
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/51b382bc7e91c862b2ae94d7"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/51b382bc7e91c862b2ae94d7)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          BPM : le Blog des Pépites Musicales
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/fxDz6a_ZUcs"
+          title="Deeper Than Deep"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Deeper Than Deep
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/50b44a757e91c862b2a8eb6b"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/50b44a757e91c862b2a8eb6b)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          SoUnD WaVeS-official
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="360"
+          src="https://www.youtube.com/embed/Fl0COtEG-TM"
+          title="The Rolling Stones | Scarlet (Goats Head Soup 2020) | Lyric video"
+          type="text/html"
+          width="640"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        The Rolling Stones | Scarlet (Goats Head Soup 2020) | Lyric video
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/53f4ee46e04b7b4fca7dcea3"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/53f4ee46e04b7b4fca7dcea3)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          banga drums
+        </div>
+      </a>
+    </div>
+  </div>
+  <div
+    className="track"
+  >
+    <div
+      className="track__thumb"
+    >
+      <div
+        className="track__video"
+      >
+        <iframe
+          frameBorder="no"
+          height="166"
+          scrolling="no"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301170935"
+          title="Midland - Final Credits"
+          width="100%"
+        />
+      </div>
+    </div>
+    <div
+      className="track__info"
+    >
+      <h2>
+        Midland - Final Credits
+      </h2>
+      <a
+        className="track__user-info"
+        href="https://openwhyd.org/u/51b382bc7e91c862b2ae94d7"
+      >
+        <div
+          className="track__user-avatar"
+          style={
+            Object {
+              "backgroundImage": "url(https://openwhyd.org/img/user/51b382bc7e91c862b2ae94d7)",
+            }
+          }
+        />
+        <div
+          className="track__username"
+        >
+          BPM : le Blog des Pépites Musicales
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;

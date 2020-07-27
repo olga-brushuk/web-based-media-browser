@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Video /> render correctly <Video /> component 1`] = `
+<div
+  className="track__video"
+>
+  <iframe
+    frameBorder="no"
+    height="360"
+    src="https://www.youtube.com/embed/U7KQ-8I_jYI"
+    title="Brooks - If Only I Could"
+    type="text/html"
+    width="640"
+  />
+</div>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Track /> render correctly <Track /> component 1`] = `
+<div
+  className="track"
+>
+  <div
+    className="track__thumb"
+  >
+    <Video
+      trackId="/yt/U7KQ-8I_jYI"
+      trackName="Brooks - If Only I Could"
+    />
+  </div>
+  <div
+    className="track__info"
+  >
+    <h2>
+      Brooks - If Only I Could
+    </h2>
+    <a
+      className="track__user-info"
+      href="https://openwhyd.org/u/50bcaf297e91c862b2a91d7c"
+    >
+      <div
+        className="track__user-avatar"
+        style={
+          Object {
+            "backgroundImage": "url(https://openwhyd.org/img/user/50bcaf297e91c862b2a91d7c)",
+          }
+        }
+      />
+      <div
+        className="track__username"
+      >
+        Sabrina
+      </div>
+    </a>
+  </div>
+</div>
+`;
