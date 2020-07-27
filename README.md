@@ -2,7 +2,7 @@
 
 Media browser app with an ability to play/watch tracks' videos inline. 
 
-* [Demo](https://olga-brushuk.github.io/web-based-media-browser/)
+* <a href="https://olga-brushuk.github.io/web-based-media-browser/" target="_blank">Demo</a>
 
 ## To run the application
 
@@ -69,6 +69,8 @@ Run:
 1. Added SASS styling to the application (responsive, mobile first).
 
 1. Tested the project in latest Chrome, Firefox, Safari and IE11 as well as responsive aspects. Encounters and fixed IE11 issues as latest ES6 scripts are not supported by adding react-app-polyfill.
+
+1. Also, checked the Google Chrome Lighthouse report for Accessibility and passed with mark 100.
 
 ## Possible improvements
 
