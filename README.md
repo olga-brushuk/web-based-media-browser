@@ -22,6 +22,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 Please note that before running those npm commands above you need to have [Node.js and npm](https://nodejs.org/en/download/) installed on your machine. 
 
+## To test the application
+
+Run: 
+
+### `npm test`
+
 ## Tech stack
 
 * [React](https://reactjs.org/docs/getting-started.html) is used for front-end.
